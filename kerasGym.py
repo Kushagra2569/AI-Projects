@@ -1,3 +1,5 @@
+#not an actual AI proj just Testing Soemthing
+#ignore this
 import gym
 env = gym.make('CartPole-v0')
 done = False
